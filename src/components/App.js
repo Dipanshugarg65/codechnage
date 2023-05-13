@@ -1,5 +1,4 @@
-// import logo from './logo.svg';
-// import './App.css';
+
 import useLocalstorage from '../hooks/useLocalstorage';
 import React, {useState, useEffect} from 'react';
 import Editor from './Editor'
